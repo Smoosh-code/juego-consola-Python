@@ -64,7 +64,7 @@ def main():
             break
     
     if not enemigos:
-        print("!Feclididades has derrotado a  todos los wnwmigos!") 
+        print("!Feclididades has derrotado a  todos los enemigos!") 
 
 if (
     __name__ == "__main__"
